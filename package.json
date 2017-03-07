@@ -1,0 +1,25 @@
+{
+  "name": "@ql/watermark",
+  "version": "1.0.0",
+  "description": "生成水印",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ql434/watermark.git"
+  },
+  "keywords": [
+    "水印"
+  ],
+  "author": "chuck.ql",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ql434/watermark/issues"
+  },
+  "homepage": "https://github.com/ql434/watermark#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
